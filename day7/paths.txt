@@ -1,0 +1,3092 @@
+current_path
+current_folder
+naredba ['$', 'cd', '/']
+current_path -/
+current_folder /
+naredba ['$', 'ls']
+current_path -/
+current_folder /
+naredba ['dir', 'dtcfhsm']
+current_path -/
+current_folder /
+naredba ['dir', 'hblzj']
+current_path -/
+current_folder /
+naredba ['dir', 'jbssdwf']
+current_path -/
+current_folder /
+naredba ['35442', 'jrfpjdpw.znd']
+current_path -/
+current_folder /
+naredba ['dir', 'ljv']
+current_path -/
+current_folder /
+naredba ['dir', 'nhp']
+current_path -/
+current_folder /
+naredba ['31592', 'qtwnndbg.rsh']
+current_path -/
+current_folder /
+naredba ['326062', 'sjc.mvn']
+current_path -/
+current_folder /
+naredba ['235205', 'wmtvbq']
+current_path -/
+current_folder /
+naredba ['$', 'cd', 'dtcfhsm']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'ls']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['206818', 'czgnjmw']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'drjhjtm']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'hjlmf']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'jllhmmf']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['187778', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['49334', 'lljh.jhb']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'qtwnndbg']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'sshvc']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'tzhbztd']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['290622', 'vmwddb']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['214581', 'wmtvbq']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'wqcsrw']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['dir', 'zjbzdrnd']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'drjhjtm']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['dir', 'cvrf']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['dir', 'gddqh']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['dir', 'qccmn']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['dir', 'qjgv']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['dir', 'sjgwv']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['$', 'cd', 'cvrf']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['233913', 'frfvjtt.dhv']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['30000', 'ljcmscc.jvh']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['61418', 'mcs.blh']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['227397', 'swd.mrf']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['dir', 'tpwvvbh']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['120888', 'vsrfw.gvd']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['$', 'cd', 'tpwvvbh']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['266824', 'qtwnndbg']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['dir', 'sdwjz']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['dir', 'vrgjhvrd']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['88616', 'wmtvbq']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['dir', 'wqcsrw']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['$', 'cd', 'sdwjz']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-sdwjz
+current_folder sdwjz
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-sdwjz
+current_folder sdwjz
+naredba ['269696', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-sdwjz
+current_folder sdwjz
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['$', 'cd', 'vrgjhvrd']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-vrgjhvrd
+current_folder vrgjhvrd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-vrgjhvrd
+current_folder vrgjhvrd
+naredba ['67409', 'sddmdd.dsb']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-vrgjhvrd
+current_folder vrgjhvrd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-wqcsrw
+current_folder wqcsrw
+naredba ['dir', 'ttgwphbc']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', 'ttgwphbc']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-wqcsrw-ttgwphbc
+current_folder ttgwphbc
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-wqcsrw-ttgwphbc
+current_folder ttgwphbc
+naredba ['178435', 'csjzz.vcd']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-wqcsrw-ttgwphbc
+current_folder ttgwphbc
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-cvrf-tpwvvbh
+current_folder tpwvvbh
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-cvrf
+current_folder cvrf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['$', 'cd', 'gddqh']
+current_path -/-dtcfhsm-drjhjtm-gddqh
+current_folder gddqh
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-gddqh
+current_folder gddqh
+naredba ['dir', 'cfvpq']
+current_path -/-dtcfhsm-drjhjtm-gddqh
+current_folder gddqh
+naredba ['318413', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-drjhjtm-gddqh
+current_folder gddqh
+naredba ['dir', 'wwv']
+current_path -/-dtcfhsm-drjhjtm-gddqh
+current_folder gddqh
+naredba ['$', 'cd', 'cfvpq']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq
+current_folder cfvpq
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq
+current_folder cfvpq
+naredba ['dir', 'ljncp']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq
+current_folder cfvpq
+naredba ['175740', 'ljv.nqn']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq
+current_folder cfvpq
+naredba ['$', 'cd', 'ljncp']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq-ljncp
+current_folder ljncp
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq-ljncp
+current_folder ljncp
+naredba ['146594', 'rhjlds.nfm']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq-ljncp
+current_folder ljncp
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-gddqh-cfvpq
+current_folder cfvpq
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-gddqh
+current_folder gddqh
+naredba ['$', 'cd', 'wwv']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv
+current_folder wwv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv
+current_folder wwv
+naredba ['dir', 'zqzch']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv
+current_folder wwv
+naredba ['$', 'cd', 'zqzch']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch
+current_folder zqzch
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch
+current_folder zqzch
+naredba ['dir', 'jllhmmf']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch
+current_folder zqzch
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'pvqhg']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'pvqhg']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch-jllhmmf-pvqhg
+current_folder pvqhg
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch-jllhmmf-pvqhg
+current_folder pvqhg
+naredba ['76789', 'ntdtbnr']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch-jllhmmf-pvqhg
+current_folder pvqhg
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv-zqzch
+current_folder zqzch
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-gddqh-wwv
+current_folder wwv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-gddqh
+current_folder gddqh
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['$', 'cd', 'qccmn']
+current_path -/-dtcfhsm-drjhjtm-qccmn
+current_folder qccmn
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-qccmn
+current_folder qccmn
+naredba ['dir', 'czpnrsfc']
+current_path -/-dtcfhsm-drjhjtm-qccmn
+current_folder qccmn
+naredba ['123617', 'jrcgldd.pvd']
+current_path -/-dtcfhsm-drjhjtm-qccmn
+current_folder qccmn
+naredba ['$', 'cd', 'czpnrsfc']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc
+current_folder czpnrsfc
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc
+current_folder czpnrsfc
+naredba ['316779', 'lqtw.vtp']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc
+current_folder czpnrsfc
+naredba ['dir', 'tdwmpl']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc
+current_folder czpnrsfc
+naredba ['$', 'cd', 'tdwmpl']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc-tdwmpl
+current_folder tdwmpl
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc-tdwmpl
+current_folder tdwmpl
+naredba ['84395', 'rvqgwwz.rbq']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc-tdwmpl
+current_folder tdwmpl
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-qccmn-czpnrsfc
+current_folder czpnrsfc
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm-qccmn
+current_folder qccmn
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['$', 'cd', 'qjgv']
+current_path -/-dtcfhsm-drjhjtm-qjgv
+current_folder qjgv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-qjgv
+current_folder qjgv
+naredba ['173535', 'qtwnndbg.clf']
+current_path -/-dtcfhsm-drjhjtm-qjgv
+current_folder qjgv
+naredba ['73941', 'wldfq.rjm']
+current_path -/-dtcfhsm-drjhjtm-qjgv
+current_folder qjgv
+naredba ['327245', 'zfqsvs.qwh']
+current_path -/-dtcfhsm-drjhjtm-qjgv
+current_folder qjgv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['$', 'cd', 'sjgwv']
+current_path -/-dtcfhsm-drjhjtm-sjgwv
+current_folder sjgwv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-drjhjtm-sjgwv
+current_folder sjgwv
+naredba ['307757', 'mvgmfhh.thn']
+current_path -/-dtcfhsm-drjhjtm-sjgwv
+current_folder sjgwv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-drjhjtm
+current_folder drjhjtm
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'hjlmf']
+current_path -/-dtcfhsm-hjlmf
+current_folder hjlmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-hjlmf
+current_folder hjlmf
+naredba ['313069', 'qlmlvvvg']
+current_path -/-dtcfhsm-hjlmf
+current_folder hjlmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['180570', 'chhgrj']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'fqqnjd']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'hmz']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'ljv']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'lrlqc']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'pfvmhz']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['299487', 'tnhwncj.nfv']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'wqcsrw']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'fqqnjd']
+current_path -/-dtcfhsm-jllhmmf-fqqnjd
+current_folder fqqnjd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-fqqnjd
+current_folder fqqnjd
+naredba ['131810', 'mcm.pbj']
+current_path -/-dtcfhsm-jllhmmf-fqqnjd
+current_folder fqqnjd
+naredba ['237810', 'mvgmfhh.thn']
+current_path -/-dtcfhsm-jllhmmf-fqqnjd
+current_folder fqqnjd
+naredba ['199479', 'qrqpl']
+current_path -/-dtcfhsm-jllhmmf-fqqnjd
+current_folder fqqnjd
+naredba ['281772', 'vmwddb.qbh']
+current_path -/-dtcfhsm-jllhmmf-fqqnjd
+current_folder fqqnjd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'hmz']
+current_path -/-dtcfhsm-jllhmmf-hmz
+current_folder hmz
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-hmz
+current_folder hmz
+naredba ['319803', 'lqtw.vtp']
+current_path -/-dtcfhsm-jllhmmf-hmz
+current_folder hmz
+naredba ['111388', 'mgdwvvqd']
+current_path -/-dtcfhsm-jllhmmf-hmz
+current_folder hmz
+naredba ['38536', 'mlqsbjr.npn']
+current_path -/-dtcfhsm-jllhmmf-hmz
+current_folder hmz
+naredba ['85619', 'vmwddb.vhq']
+current_path -/-dtcfhsm-jllhmmf-hmz
+current_folder hmz
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'ljv']
+current_path -/-dtcfhsm-jllhmmf-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-ljv
+current_folder ljv
+naredba ['dir', 'vmwddb']
+current_path -/-dtcfhsm-jllhmmf-ljv
+current_folder ljv
+naredba ['$', 'cd', 'vmwddb']
+current_path -/-dtcfhsm-jllhmmf-ljv-vmwddb
+current_folder vmwddb
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-ljv-vmwddb
+current_folder vmwddb
+naredba ['dir', 'bgdchqwj']
+current_path -/-dtcfhsm-jllhmmf-ljv-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', 'bgdchqwj']
+current_path -/-dtcfhsm-jllhmmf-ljv-vmwddb-bgdchqwj
+current_folder bgdchqwj
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-ljv-vmwddb-bgdchqwj
+current_folder bgdchqwj
+naredba ['147734', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-jllhmmf-ljv-vmwddb-bgdchqwj
+current_folder bgdchqwj
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf-ljv-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'lrlqc']
+current_path -/-dtcfhsm-jllhmmf-lrlqc
+current_folder lrlqc
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-lrlqc
+current_folder lrlqc
+naredba ['327255', 'wmtvbq']
+current_path -/-dtcfhsm-jllhmmf-lrlqc
+current_folder lrlqc
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'pfvmhz']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['dir', 'bpdv']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['dir', 'cgnhzrb']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['dir', 'cpgvb']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['71305', 'mmlbp.hnw']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['207351', 'rgwgmtr']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['223983', 'sgmlt.nrj']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['$', 'cd', 'bpdv']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-bpdv
+current_folder bpdv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-bpdv
+current_folder bpdv
+naredba ['50169', 'stvpjws.pbn']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-bpdv
+current_folder bpdv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['$', 'cd', 'cgnhzrb']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cgnhzrb
+current_folder cgnhzrb
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cgnhzrb
+current_folder cgnhzrb
+naredba ['328146', 'fzd.fgm']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cgnhzrb
+current_folder cgnhzrb
+naredba ['307323', 'gnmgw.rsf']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cgnhzrb
+current_folder cgnhzrb
+naredba ['311890', 'tmrdgzmm']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cgnhzrb
+current_folder cgnhzrb
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['$', 'cd', 'cpgvb']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cpgvb
+current_folder cpgvb
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cpgvb
+current_folder cpgvb
+naredba ['241313', 'vzgnlqzh.fcb']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz-cpgvb
+current_folder cpgvb
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf-pfvmhz
+current_folder pfvmhz
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw
+current_folder wqcsrw
+naredba ['dir', 'jllhmmf']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'jllhmmf']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf-jllhmmf
+current_folder jllhmmf
+naredba ['161384', 'rvqgwwz.rbq']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf-jllhmmf
+current_folder jllhmmf
+naredba ['2778', 'zlbgrzs.jlv']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'qtwnndbg']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['222554', 'qtwnndbg']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['20197', 'rrnmgz.hsj']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['135325', 'rvqgwwz.rbq']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'rzbjntjl']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['81086', 'tbsj.zns']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['275538', 'wqcsrw']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'rzbjntjl']
+current_path -/-dtcfhsm-qtwnndbg-rzbjntjl
+current_folder rzbjntjl
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-qtwnndbg-rzbjntjl
+current_folder rzbjntjl
+naredba ['315148', 'lqtw.vtp']
+current_path -/-dtcfhsm-qtwnndbg-rzbjntjl
+current_folder rzbjntjl
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'sshvc']
+current_path -/-dtcfhsm-sshvc
+current_folder sshvc
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-sshvc
+current_folder sshvc
+naredba ['37541', 'mvgmfhh.thn']
+current_path -/-dtcfhsm-sshvc
+current_folder sshvc
+naredba ['27276', 'vwwpbqq']
+current_path -/-dtcfhsm-sshvc
+current_folder sshvc
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'tzhbztd']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['dir', 'gcrfzd']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['dir', 'ltvhvt']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['dir', 'qtwnndbg']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['dir', 'rgqwp']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['dir', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['$', 'cd', 'gcrfzd']
+current_path -/-dtcfhsm-tzhbztd-gcrfzd
+current_folder gcrfzd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-gcrfzd
+current_folder gcrfzd
+naredba ['319338', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-tzhbztd-gcrfzd
+current_folder gcrfzd
+naredba ['24471', 'wmtvbq']
+current_path -/-dtcfhsm-tzhbztd-gcrfzd
+current_folder gcrfzd
+naredba ['77828', 'zcbwwf']
+current_path -/-dtcfhsm-tzhbztd-gcrfzd
+current_folder gcrfzd
+naredba ['210897', 'zgfncbmh']
+current_path -/-dtcfhsm-tzhbztd-gcrfzd
+current_folder gcrfzd
+naredba ['169336', 'zvrfwmgm']
+current_path -/-dtcfhsm-tzhbztd-gcrfzd
+current_folder gcrfzd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['$', 'cd', 'ltvhvt']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['dir', 'qtwnndbg']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['1644', 'rqr']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['114660', 'sfvv.frz']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['dir', 'shl']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['dir', 'vmwddb']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['dir', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['$', 'cd', 'qtwnndbg']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'hgfvpn']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'jcgr']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'ljv']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'scrd']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'zwwclfj']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'hgfvpn']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-hgfvpn
+current_folder hgfvpn
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-hgfvpn
+current_folder hgfvpn
+naredba ['83476', 'nrpjcnz.psn']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-hgfvpn
+current_folder hgfvpn
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'jcgr']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr
+current_folder jcgr
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr
+current_folder jcgr
+naredba ['dir', 'jhvqhq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr
+current_folder jcgr
+naredba ['dir', 'zhdch']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr
+current_folder jcgr
+naredba ['$', 'cd', 'jhvqhq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq
+current_folder jhvqhq
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq
+current_folder jhvqhq
+naredba ['dir', 'ljv']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq
+current_folder jhvqhq
+naredba ['$', 'cd', 'ljv']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq-ljv
+current_folder ljv
+naredba ['213483', 'hsjbmv']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq-ljv
+current_folder ljv
+naredba ['165211', 'rvqgwwz.rbq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq-ljv
+current_folder ljv
+naredba ['48993', 'wmtvbq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-jhvqhq
+current_folder jhvqhq
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr
+current_folder jcgr
+naredba ['$', 'cd', 'zhdch']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-zhdch
+current_folder zhdch
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-zhdch
+current_folder zhdch
+naredba ['126929', 'zsmpbnml.qbl']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr-zhdch
+current_folder zhdch
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-jcgr
+current_folder jcgr
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'ljv']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-ljv
+current_folder ljv
+naredba ['60596', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'scrd']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-scrd
+current_folder scrd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-scrd
+current_folder scrd
+naredba ['313679', 'nmhhp.bvt']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-scrd
+current_folder scrd
+naredba ['199353', 'wmtvbq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-scrd
+current_folder scrd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'zwwclfj']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['dir', 'czqszmf']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['dir', 'dmv']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['dir', 'pgjwmnwf']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['dir', 'whpmfw']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['$', 'cd', 'czqszmf']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-czqszmf
+current_folder czqszmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-czqszmf
+current_folder czqszmf
+naredba ['181716', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-czqszmf
+current_folder czqszmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['$', 'cd', 'dmv']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-dmv
+current_folder dmv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-dmv
+current_folder dmv
+naredba ['303356', 'qtwnndbg.phh']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-dmv
+current_folder dmv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['$', 'cd', 'pgjwmnwf']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-pgjwmnwf
+current_folder pgjwmnwf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-pgjwmnwf
+current_folder pgjwmnwf
+naredba ['59757', 'cbdggnvh.szc']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-pgjwmnwf
+current_folder pgjwmnwf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['$', 'cd', 'whpmfw']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw
+current_folder whpmfw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw
+current_folder whpmfw
+naredba ['102901', 'lqtw.vtp']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw
+current_folder whpmfw
+naredba ['162907', 'rvqgwwz.rbq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw
+current_folder whpmfw
+naredba ['dir', 'whd']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw
+current_folder whpmfw
+naredba ['$', 'cd', 'whd']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw-whd
+current_folder whd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw-whd
+current_folder whd
+naredba ['dir', 'rvqnddsb']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw-whd
+current_folder whd
+naredba ['$', 'cd', 'rvqnddsb']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw-whd-rvqnddsb
+current_folder rvqnddsb
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw-whd-rvqnddsb
+current_folder rvqnddsb
+naredba ['265936', 'wmtvbq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw-whd-rvqnddsb
+current_folder rvqnddsb
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw-whd
+current_folder whd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj-whpmfw
+current_folder whpmfw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg-zwwclfj
+current_folder zwwclfj
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['$', 'cd', 'shl']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-shl
+current_folder shl
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-shl
+current_folder shl
+naredba ['270493', 'llqj.cvz']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-shl
+current_folder shl
+naredba ['199257', 'lvhrltd.cbq']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-shl
+current_folder shl
+naredba ['44404', 'qqhvstd.vjd']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-shl
+current_folder shl
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['$', 'cd', 'vmwddb']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-vmwddb
+current_folder vmwddb
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-vmwddb
+current_folder vmwddb
+naredba ['176668', 'dsmjtpcm.vfr']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-wqcsrw
+current_folder wqcsrw
+naredba ['85545', 'wqcsrw.llm']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-ltvhvt
+current_folder ltvhvt
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['$', 'cd', 'qtwnndbg']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'ljv']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'psqjqb']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'tnvlnmw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['44316', 'wmtvbq']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'ljv']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['205777', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['279684', 'mvgmfhh.thn']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['dir', 'ppw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['dir', 'rms']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['dir', 'tsccztf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['dir', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'cd', 'ppw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw
+current_folder ppw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw
+current_folder ppw
+naredba ['139214', 'ljv']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw
+current_folder ppw
+naredba ['dir', 'vmwddb']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw
+current_folder ppw
+naredba ['$', 'cd', 'vmwddb']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw-vmwddb
+current_folder vmwddb
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw-vmwddb
+current_folder vmwddb
+naredba ['141988', 'fbgbwp.fwl']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-ppw
+current_folder ppw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'cd', 'rms']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-rms
+current_folder rms
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-rms
+current_folder rms
+naredba ['221170', 'crlhwdqs.rbp']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-rms
+current_folder rms
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'cd', 'tsccztf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['dir', 'csrc']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['dir', 'dbtzwqj']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['dir', 'vqw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['$', 'cd', 'csrc']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc
+current_folder csrc
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc
+current_folder csrc
+naredba ['dir', 'jllhmmf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc
+current_folder csrc
+naredba ['281285', 'nwbcqwf.lqw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc
+current_folder csrc
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc-jllhmmf
+current_folder jllhmmf
+naredba ['337404', 'qtwnndbg.qhb']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-csrc
+current_folder csrc
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['$', 'cd', 'dbtzwqj']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-dbtzwqj
+current_folder dbtzwqj
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-dbtzwqj
+current_folder dbtzwqj
+naredba ['89297', 'clsblqf.sql']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-dbtzwqj
+current_folder dbtzwqj
+naredba ['75292', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-dbtzwqj
+current_folder dbtzwqj
+naredba ['242192', 'mvgmfhh.thn']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-dbtzwqj
+current_folder dbtzwqj
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['$', 'cd', 'vqw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-vqw
+current_folder vqw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-vqw
+current_folder vqw
+naredba ['43526', 'vrgfvcd.tsc']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf-vqw
+current_folder vqw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-tsccztf
+current_folder tsccztf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-wqcsrw
+current_folder wqcsrw
+naredba ['38096', 'lqtw.vtp']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-wqcsrw
+current_folder wqcsrw
+naredba ['37490', 'mvgmfhh.thn']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'psqjqb']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-psqjqb
+current_folder psqjqb
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-psqjqb
+current_folder psqjqb
+naredba ['9842', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-psqjqb
+current_folder psqjqb
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'tnvlnmw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['dir', 'cvgs']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['dir', 'npslzj']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['dir', 'qtwnndbg']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['dir', 'tsshp']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['$', 'cd', 'cvgs']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-cvgs
+current_folder cvgs
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-cvgs
+current_folder cvgs
+naredba ['48820', 'jllhmmf.rjr']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-cvgs
+current_folder cvgs
+naredba ['2036', 'sprlcwv']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-cvgs
+current_folder cvgs
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['$', 'cd', 'npslzj']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj
+current_folder npslzj
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj
+current_folder npslzj
+naredba ['dir', 'bbj']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj
+current_folder npslzj
+naredba ['227147', 'slfq.bdf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj
+current_folder npslzj
+naredba ['$', 'cd', 'bbj']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj-bbj
+current_folder bbj
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj-bbj
+current_folder bbj
+naredba ['77671', 'bsmgb']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj-bbj
+current_folder bbj
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-npslzj
+current_folder npslzj
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['$', 'cd', 'qtwnndbg']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-qtwnndbg
+current_folder qtwnndbg
+naredba ['121924', 'wmtvbq']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['$', 'cd', 'tsshp']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-tsshp
+current_folder tsshp
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-tsshp
+current_folder tsshp
+naredba ['33269', 'jllhmmf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw-tsshp
+current_folder tsshp
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-tnvlnmw
+current_folder tnvlnmw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-wqcsrw
+current_folder wqcsrw
+naredba ['dir', 'jllhmmf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-wqcsrw-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-wqcsrw-jllhmmf
+current_folder jllhmmf
+naredba ['133114', 'rvqgwwz.rbq']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-wqcsrw-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['$', 'cd', 'rgqwp']
+current_path -/-dtcfhsm-tzhbztd-rgqwp
+current_folder rgqwp
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-rgqwp
+current_folder rgqwp
+naredba ['13207', 'djgldhd']
+current_path -/-dtcfhsm-tzhbztd-rgqwp
+current_folder rgqwp
+naredba ['120394', 'fpjppcp.sbr']
+current_path -/-dtcfhsm-tzhbztd-rgqwp
+current_folder rgqwp
+naredba ['296110', 'fwwqr.gzz']
+current_path -/-dtcfhsm-tzhbztd-rgqwp
+current_folder rgqwp
+naredba ['146254', 'nprjzt.fml']
+current_path -/-dtcfhsm-tzhbztd-rgqwp
+current_folder rgqwp
+naredba ['265873', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-rgqwp
+current_folder rgqwp
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['dir', 'bbjgh']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['157738', 'mvgmfhh.thn']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['dir', 'njdnjmz']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['dir', 'wqm']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['179080', 'wtgpwt.sqm']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', 'bbjgh']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-bbjgh
+current_folder bbjgh
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-bbjgh
+current_folder bbjgh
+naredba ['2285', 'wqcsrw.cvn']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-bbjgh
+current_folder bbjgh
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', 'njdnjmz']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-njdnjmz
+current_folder njdnjmz
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-njdnjmz
+current_folder njdnjmz
+naredba ['dir', 'cfd']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-njdnjmz
+current_folder njdnjmz
+naredba ['$', 'cd', 'cfd']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-njdnjmz-cfd
+current_folder cfd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-njdnjmz-cfd
+current_folder cfd
+naredba ['95362', 'vmwddb.rgq']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-njdnjmz-cfd
+current_folder cfd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-njdnjmz
+current_folder njdnjmz
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', 'wqm']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-wqm
+current_folder wqm
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-wqm
+current_folder wqm
+naredba ['235077', 'jrfpjdpw.znd']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw-wqm
+current_folder wqm
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-tzhbztd
+current_folder tzhbztd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-dtcfhsm-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-wqcsrw
+current_folder wqcsrw
+naredba ['11821', 'rvqgwwz.rbq']
+current_path -/-dtcfhsm-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', 'zjbzdrnd']
+current_path -/-dtcfhsm-zjbzdrnd
+current_folder zjbzdrnd
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-zjbzdrnd
+current_folder zjbzdrnd
+naredba ['273551', 'ljv.mtt']
+current_path -/-dtcfhsm-zjbzdrnd
+current_folder zjbzdrnd
+naredba ['73077', 'ljv.rpz']
+current_path -/-dtcfhsm-zjbzdrnd
+current_folder zjbzdrnd
+naredba ['dir', 'sbqsqw']
+current_path -/-dtcfhsm-zjbzdrnd
+current_folder zjbzdrnd
+naredba ['102241', 'wmtvbq']
+current_path -/-dtcfhsm-zjbzdrnd
+current_folder zjbzdrnd
+naredba ['$', 'cd', 'sbqsqw']
+current_path -/-dtcfhsm-zjbzdrnd-sbqsqw
+current_folder sbqsqw
+naredba ['$', 'ls']
+current_path -/-dtcfhsm-zjbzdrnd-sbqsqw
+current_folder sbqsqw
+naredba ['308189', 'drmlmhb.jqt']
+current_path -/-dtcfhsm-zjbzdrnd-sbqsqw
+current_folder sbqsqw
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm-zjbzdrnd
+current_folder zjbzdrnd
+naredba ['$', 'cd', '..']
+current_path -/-dtcfhsm
+current_folder dtcfhsm
+naredba ['$', 'cd', '..']
+current_path -/
+current_folder /
+naredba ['$', 'cd', 'hblzj']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['$', 'ls']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['dir', 'cgm']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['113128', 'csgchmtn.drj']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['dir', 'qlg']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['dir', 'rsgbjpp']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['dir', 'tpjpnjg']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['dir', 'vmwddb']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['$', 'cd', 'cgm']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['$', 'ls']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['dir', 'dfm']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['dir', 'fqhzrms']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['dir', 'ljv']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['125604', 'lqtw.vtp']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['dir', 'vtrs']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['56731', 'wmtvbq']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['$', 'cd', 'dfm']
+current_path -/-hblzj-cgm-dfm
+current_folder dfm
+naredba ['$', 'ls']
+current_path -/-hblzj-cgm-dfm
+current_folder dfm
+naredba ['228574', 'ljv']
+current_path -/-hblzj-cgm-dfm
+current_folder dfm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['$', 'cd', 'fqhzrms']
+current_path -/-hblzj-cgm-fqhzrms
+current_folder fqhzrms
+naredba ['$', 'ls']
+current_path -/-hblzj-cgm-fqhzrms
+current_folder fqhzrms
+naredba ['dir', 'qtwnndbg']
+current_path -/-hblzj-cgm-fqhzrms
+current_folder fqhzrms
+naredba ['$', 'cd', 'qtwnndbg']
+current_path -/-hblzj-cgm-fqhzrms-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'ls']
+current_path -/-hblzj-cgm-fqhzrms-qtwnndbg
+current_folder qtwnndbg
+naredba ['230853', 'njvmtghw']
+current_path -/-hblzj-cgm-fqhzrms-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-cgm-fqhzrms
+current_folder fqhzrms
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['$', 'cd', 'ljv']
+current_path -/-hblzj-cgm-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-hblzj-cgm-ljv
+current_folder ljv
+naredba ['68290', 'fbrm.gdc']
+current_path -/-hblzj-cgm-ljv
+current_folder ljv
+naredba ['117256', 'jllhmmf.dvj']
+current_path -/-hblzj-cgm-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['$', 'cd', 'vtrs']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['$', 'ls']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['150365', 'brt.dqc']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['313762', 'chhlg.fst']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['dir', 'dtmjbfm']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['92651', 'ljv.sjz']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['306760', 'rrwh']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['276248', 'rvqgwwz.rbq']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['$', 'cd', 'dtmjbfm']
+current_path -/-hblzj-cgm-vtrs-dtmjbfm
+current_folder dtmjbfm
+naredba ['$', 'ls']
+current_path -/-hblzj-cgm-vtrs-dtmjbfm
+current_folder dtmjbfm
+naredba ['270715', 'jllhmmf.vdw']
+current_path -/-hblzj-cgm-vtrs-dtmjbfm
+current_folder dtmjbfm
+naredba ['20878', 'wmtvbq']
+current_path -/-hblzj-cgm-vtrs-dtmjbfm
+current_folder dtmjbfm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-cgm-vtrs
+current_folder vtrs
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-cgm
+current_folder cgm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['$', 'cd', 'qlg']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['dir', 'fgv']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['131774', 'jrfpjdpw.znd']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['dir', 'ldmpnbt']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['36604', 'mvgmfhh.thn']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['dir', 'prhtj']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['dir', 'vfsj']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['dir', 'wqcsrw']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['$', 'cd', 'fgv']
+current_path -/-hblzj-qlg-fgv
+current_folder fgv
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-fgv
+current_folder fgv
+naredba ['222821', 'wmtvbq']
+current_path -/-hblzj-qlg-fgv
+current_folder fgv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['$', 'cd', 'ldmpnbt']
+current_path -/-hblzj-qlg-ldmpnbt
+current_folder ldmpnbt
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-ldmpnbt
+current_folder ldmpnbt
+naredba ['183619', 'tbfjvng']
+current_path -/-hblzj-qlg-ldmpnbt
+current_folder ldmpnbt
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['$', 'cd', 'prhtj']
+current_path -/-hblzj-qlg-prhtj
+current_folder prhtj
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-prhtj
+current_folder prhtj
+naredba ['201210', 'lpdvzs.ndv']
+current_path -/-hblzj-qlg-prhtj
+current_folder prhtj
+naredba ['309785', 'smmfht']
+current_path -/-hblzj-qlg-prhtj
+current_folder prhtj
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['$', 'cd', 'vfsj']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['dir', 'bzznmpc']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['123825', 'cbzvvdm.rvs']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['dir', 'ghp']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['dir', 'gwzm']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['313610', 'jrfpjdpw.znd']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['dir', 'ndsfzz']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['34270', 'rjq.ttw']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['dir', 'rsqhz']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['108776', 'rvqgwwz.rbq']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['dir', 'tsmlpnbc']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['29065', 'wwqfpv.fgv']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['dir', 'zmljzwt']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', 'bzznmpc']
+current_path -/-hblzj-qlg-vfsj-bzznmpc
+current_folder bzznmpc
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-bzznmpc
+current_folder bzznmpc
+naredba ['147394', 'rft.fsn']
+current_path -/-hblzj-qlg-vfsj-bzznmpc
+current_folder bzznmpc
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', 'ghp']
+current_path -/-hblzj-qlg-vfsj-ghp
+current_folder ghp
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ghp
+current_folder ghp
+naredba ['dir', 'bhvgpz']
+current_path -/-hblzj-qlg-vfsj-ghp
+current_folder ghp
+naredba ['248463', 'gwwtl']
+current_path -/-hblzj-qlg-vfsj-ghp
+current_folder ghp
+naredba ['285955', 'tccqqtbw.bzv']
+current_path -/-hblzj-qlg-vfsj-ghp
+current_folder ghp
+naredba ['122937', 'zwqh']
+current_path -/-hblzj-qlg-vfsj-ghp
+current_folder ghp
+naredba ['$', 'cd', 'bhvgpz']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz
+current_folder bhvgpz
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz
+current_folder bhvgpz
+naredba ['300057', 'jllhmmf']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz
+current_folder bhvgpz
+naredba ['137933', 'jrfpjdpw.znd']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz
+current_folder bhvgpz
+naredba ['170731', 'pstc.hjq']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz
+current_folder bhvgpz
+naredba ['dir', 'tvpw']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz
+current_folder bhvgpz
+naredba ['$', 'cd', 'tvpw']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz-tvpw
+current_folder tvpw
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz-tvpw
+current_folder tvpw
+naredba ['226913', 'ltjtlcp.nfj']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz-tvpw
+current_folder tvpw
+naredba ['113485', 'mvgmfhh.thn']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz-tvpw
+current_folder tvpw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ghp-bhvgpz
+current_folder bhvgpz
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ghp
+current_folder ghp
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', 'gwzm']
+current_path -/-hblzj-qlg-vfsj-gwzm
+current_folder gwzm
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-gwzm
+current_folder gwzm
+naredba ['33023', 'jrfpjdpw.znd']
+current_path -/-hblzj-qlg-vfsj-gwzm
+current_folder gwzm
+naredba ['dir', 'zwztrgr']
+current_path -/-hblzj-qlg-vfsj-gwzm
+current_folder gwzm
+naredba ['$', 'cd', 'zwztrgr']
+current_path -/-hblzj-qlg-vfsj-gwzm-zwztrgr
+current_folder zwztrgr
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-gwzm-zwztrgr
+current_folder zwztrgr
+naredba ['310997', 'mtrfsv.jgn']
+current_path -/-hblzj-qlg-vfsj-gwzm-zwztrgr
+current_folder zwztrgr
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-gwzm
+current_folder gwzm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', 'ndsfzz']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['dir', 'bhfnclp']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['dir', 'jllhmmf']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['15445', 'lqtw.vtp']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['68225', 'rvqgwwz.rbq']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['46093', 'spvrn']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['dir', 'vdfmwrq']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['dir', 'zwzlr']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['$', 'cd', 'bhfnclp']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp
+current_folder bhfnclp
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp
+current_folder bhfnclp
+naredba ['174231', 'mvgmfhh.thn']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp
+current_folder bhfnclp
+naredba ['dir', 'qgtrvmf']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp
+current_folder bhfnclp
+naredba ['202378', 'qtwnndbg.cnp']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp
+current_folder bhfnclp
+naredba ['124762', 'sctssqpq']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp
+current_folder bhfnclp
+naredba ['$', 'cd', 'qgtrvmf']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp-qgtrvmf
+current_folder qgtrvmf
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp-qgtrvmf
+current_folder qgtrvmf
+naredba ['65851', 'mvgmfhh.thn']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp-qgtrvmf
+current_folder qgtrvmf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-bhfnclp
+current_folder bhfnclp
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'jmqltsd']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'mjzcf']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['281062', 'sjdmlqzs']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['dir', 'vmjjtbl']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'jmqltsd']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-jmqltsd
+current_folder jmqltsd
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-jmqltsd
+current_folder jmqltsd
+naredba ['327426', 'ddhs.qsp']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-jmqltsd
+current_folder jmqltsd
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'mjzcf']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-mjzcf
+current_folder mjzcf
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-mjzcf
+current_folder mjzcf
+naredba ['229568', 'cjq.jss']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-mjzcf
+current_folder mjzcf
+naredba ['227699', 'jrfpjdpw.znd']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-mjzcf
+current_folder mjzcf
+naredba ['41949', 'pjzcq']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-mjzcf
+current_folder mjzcf
+naredba ['62253', 'rvqgwwz.rbq']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-mjzcf
+current_folder mjzcf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', 'vmjjtbl']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl
+current_folder vmjjtbl
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl
+current_folder vmjjtbl
+naredba ['dir', 'sjqpfc']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl
+current_folder vmjjtbl
+naredba ['$', 'cd', 'sjqpfc']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc
+current_folder sjqpfc
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc
+current_folder sjqpfc
+naredba ['dir', 'mbpfvsg']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc
+current_folder sjqpfc
+naredba ['dir', 'vfwvtscb']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc
+current_folder sjqpfc
+naredba ['$', 'cd', 'mbpfvsg']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-mbpfvsg
+current_folder mbpfvsg
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-mbpfvsg
+current_folder mbpfvsg
+naredba ['128515', 'lqtw.vtp']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-mbpfvsg
+current_folder mbpfvsg
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc
+current_folder sjqpfc
+naredba ['$', 'cd', 'vfwvtscb']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb
+current_folder vfwvtscb
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb
+current_folder vfwvtscb
+naredba ['dir', 'ljv']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb
+current_folder vfwvtscb
+naredba ['$', 'cd', 'ljv']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb-ljv
+current_folder ljv
+naredba ['dir', 'nwbfd']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb-ljv
+current_folder ljv
+naredba ['$', 'cd', 'nwbfd']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb-ljv-nwbfd
+current_folder nwbfd
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb-ljv-nwbfd
+current_folder nwbfd
+naredba ['297506', 'mvgmfhh.thn']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb-ljv-nwbfd
+current_folder nwbfd
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc-vfwvtscb
+current_folder vfwvtscb
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl-sjqpfc
+current_folder sjqpfc
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf-vmjjtbl
+current_folder vmjjtbl
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['$', 'cd', 'vdfmwrq']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-vdfmwrq
+current_folder vdfmwrq
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-vdfmwrq
+current_folder vdfmwrq
+naredba ['dir', 'ntm']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-vdfmwrq
+current_folder vdfmwrq
+naredba ['$', 'cd', 'ntm']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-vdfmwrq-ntm
+current_folder ntm
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-vdfmwrq-ntm
+current_folder ntm
+naredba ['36060', 'vlvdhw.vlj']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-vdfmwrq-ntm
+current_folder ntm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-vdfmwrq
+current_folder vdfmwrq
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['$', 'cd', 'zwzlr']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-zwzlr
+current_folder zwzlr
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-zwzlr
+current_folder zwzlr
+naredba ['126975', 'bfnpq.hzt']
+current_path -/-hblzj-qlg-vfsj-ndsfzz-zwzlr
+current_folder zwzlr
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-ndsfzz
+current_folder ndsfzz
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', 'rsqhz']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['dir', 'cjzh']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['238925', 'crgfccz.hlg']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['dir', 'dsssbm']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['197221', 'ftrdjhcn.grz']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['171860', 'jvvcpbh']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['60237', 'qtwnndbg.rwr']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['247770', 'whwf']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['$', 'cd', 'cjzh']
+current_path -/-hblzj-qlg-vfsj-rsqhz-cjzh
+current_folder cjzh
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-rsqhz-cjzh
+current_folder cjzh
+naredba ['105519', 'rvqgwwz.rbq']
+current_path -/-hblzj-qlg-vfsj-rsqhz-cjzh
+current_folder cjzh
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['$', 'cd', 'dsssbm']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm
+current_folder dsssbm
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm
+current_folder dsssbm
+naredba ['128213', 'dqsrbnjd.bwf']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm
+current_folder dsssbm
+naredba ['dir', 'frmmlzv']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm
+current_folder dsssbm
+naredba ['318040', 'wmtvbq']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm
+current_folder dsssbm
+naredba ['$', 'cd', 'frmmlzv']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm-frmmlzv
+current_folder frmmlzv
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm-frmmlzv
+current_folder frmmlzv
+naredba ['127732', 'mvgmfhh.thn']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm-frmmlzv
+current_folder frmmlzv
+naredba ['37436', 'qtwnndbg.zzg']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm-frmmlzv
+current_folder frmmlzv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-rsqhz-dsssbm
+current_folder dsssbm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-rsqhz
+current_folder rsqhz
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', 'tsmlpnbc']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['dir', 'bdb']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['dir', 'ddjd']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['dir', 'gbdm']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['dir', 'grm']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['273561', 'hzszqjgf.ggp']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['$', 'cd', 'bdb']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-bdb
+current_folder bdb
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-bdb
+current_folder bdb
+naredba ['100286', 'qtwnndbg']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-bdb
+current_folder bdb
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['$', 'cd', 'ddjd']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-ddjd
+current_folder ddjd
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-ddjd
+current_folder ddjd
+naredba ['dir', 'vmwddb']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-ddjd
+current_folder ddjd
+naredba ['$', 'cd', 'vmwddb']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-ddjd-vmwddb
+current_folder vmwddb
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-ddjd-vmwddb
+current_folder vmwddb
+naredba ['261837', 'wqcsrw.mzq']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-ddjd-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-ddjd
+current_folder ddjd
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['$', 'cd', 'gbdm']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-gbdm
+current_folder gbdm
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-gbdm
+current_folder gbdm
+naredba ['233279', 'wmtvbq']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-gbdm
+current_folder gbdm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['$', 'cd', 'grm']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-grm
+current_folder grm
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-grm
+current_folder grm
+naredba ['dir', 'cghd']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-grm
+current_folder grm
+naredba ['$', 'cd', 'cghd']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-grm-cghd
+current_folder cghd
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-grm-cghd
+current_folder cghd
+naredba ['8883', 'ncjc.vsj']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-grm-cghd
+current_folder cghd
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc-grm
+current_folder grm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-tsmlpnbc
+current_folder tsmlpnbc
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', 'zmljzwt']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['274821', 'lqtw.vtp']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['dir', 'ltpmzrtf']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['dir', 'qtwnndbg']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['dir', 'shfjtm']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['$', 'cd', 'ltpmzrtf']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-ltpmzrtf
+current_folder ltpmzrtf
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-ltpmzrtf
+current_folder ltpmzrtf
+naredba ['222040', 'vmwddb.fcz']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-ltpmzrtf
+current_folder ltpmzrtf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['$', 'cd', 'qtwnndbg']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['245288', 'lhbjpggt.rfr']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'ltgqs']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['dir', 'nqngjr']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['161396', 'rmlm.psv']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['130067', 'vmwddb.ssz']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'ltgqs']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg-ltgqs
+current_folder ltgqs
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg-ltgqs
+current_folder ltgqs
+naredba ['45032', 'vmwddb.zwl']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg-ltgqs
+current_folder ltgqs
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', 'nqngjr']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg-nqngjr
+current_folder nqngjr
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg-nqngjr
+current_folder nqngjr
+naredba ['296145', 'fbt']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg-nqngjr
+current_folder nqngjr
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-qtwnndbg
+current_folder qtwnndbg
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['$', 'cd', 'shfjtm']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['dir', 'dqv']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['dir', 'jhgdb']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['dir', 'jllhmmf']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['dir', 'sczqst']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['dir', 'zngqfcw']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['$', 'cd', 'dqv']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-dqv
+current_folder dqv
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-dqv
+current_folder dqv
+naredba ['327447', 'jllhmmf.ndg']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-dqv
+current_folder dqv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['$', 'cd', 'jhgdb']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['138120', 'bdbjjfs.rtn']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['dir', 'nfd']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['dir', 'qwng']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['dir', 'zwdbl']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['$', 'cd', 'nfd']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd
+current_folder nfd
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd
+current_folder nfd
+naredba ['dir', 'tdslfhgq']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd
+current_folder nfd
+naredba ['$', 'cd', 'tdslfhgq']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq
+current_folder tdslfhgq
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq
+current_folder tdslfhgq
+naredba ['dir', 'jnfrd']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq
+current_folder tdslfhgq
+naredba ['45044', 'jrfpjdpw.znd']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq
+current_folder tdslfhgq
+naredba ['133120', 'sdjzcfhh.dmm']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq
+current_folder tdslfhgq
+naredba ['$', 'cd', 'jnfrd']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq-jnfrd
+current_folder jnfrd
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq-jnfrd
+current_folder jnfrd
+naredba ['314151', 'wmtvbq']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq-jnfrd
+current_folder jnfrd
+naredba ['161805', 'zzctqr']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq-jnfrd
+current_folder jnfrd
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd-tdslfhgq
+current_folder tdslfhgq
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-nfd
+current_folder nfd
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['$', 'cd', 'qwng']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-qwng
+current_folder qwng
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-qwng
+current_folder qwng
+naredba ['202921', 'zvtlrb.sdf']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-qwng
+current_folder qwng
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['$', 'cd', 'zwdbl']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-zwdbl
+current_folder zwdbl
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-zwdbl
+current_folder zwdbl
+naredba ['219865', 'wmtvbq']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb-zwdbl
+current_folder zwdbl
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jhgdb
+current_folder jhgdb
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jllhmmf
+current_folder jllhmmf
+naredba ['258183', 'rvqgwwz.rbq']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['$', 'cd', 'sczqst']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-sczqst
+current_folder sczqst
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-sczqst
+current_folder sczqst
+naredba ['37030', 'jrfpjdpw.znd']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-sczqst
+current_folder sczqst
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['$', 'cd', 'zngqfcw']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw
+current_folder zngqfcw
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw
+current_folder zngqfcw
+naredba ['dir', 'fmwlfgm']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw
+current_folder zngqfcw
+naredba ['254522', 'rvqgwwz.rbq']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw
+current_folder zngqfcw
+naredba ['$', 'cd', 'fmwlfgm']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw-fmwlfgm
+current_folder fmwlfgm
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw-fmwlfgm
+current_folder fmwlfgm
+naredba ['229979', 'jgcr.qlt']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw-fmwlfgm
+current_folder fmwlfgm
+naredba ['282169', 'wwpwcjgv']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw-fmwlfgm
+current_folder fmwlfgm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm-zngqfcw
+current_folder zngqfcw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt-shfjtm
+current_folder shfjtm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj-zmljzwt
+current_folder zmljzwt
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg-vfsj
+current_folder vfsj
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-hblzj-qlg-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-hblzj-qlg-wqcsrw
+current_folder wqcsrw
+naredba ['111251', 'ghjbjfhg.nqs']
+current_path -/-hblzj-qlg-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-qlg
+current_folder qlg
+naredba ['$', 'cd', '..']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['$', 'cd', 'rsgbjpp']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['dir', 'dchrnhrl']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['dir', 'lsqztz']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['dir', 'lwlh']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['dir', 'slb']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['$', 'cd', 'dchrnhrl']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['45452', 'ctmp.cmv']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['dir', 'gqznj']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['206243', 'mvgmfhh.thn']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['166028', 'szzzlft.lst']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['156182', 'trtgnc.gcr']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['75072', 'zrh']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['$', 'cd', 'gqznj']
+current_path -/-hblzj-rsgbjpp-dchrnhrl-gqznj
+current_folder gqznj
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-dchrnhrl-gqznj
+current_folder gqznj
+naredba ['251328', 'ljv.tpg']
+current_path -/-hblzj-rsgbjpp-dchrnhrl-gqznj
+current_folder gqznj
+naredba ['24996', 'lqtw.vtp']
+current_path -/-hblzj-rsgbjpp-dchrnhrl-gqznj
+current_folder gqznj
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-dchrnhrl
+current_folder dchrnhrl
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['$', 'cd', 'lsqztz']
+current_path -/-hblzj-rsgbjpp-lsqztz
+current_folder lsqztz
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lsqztz
+current_folder lsqztz
+naredba ['dir', 'cmrqhlf']
+current_path -/-hblzj-rsgbjpp-lsqztz
+current_folder lsqztz
+naredba ['$', 'cd', 'cmrqhlf']
+current_path -/-hblzj-rsgbjpp-lsqztz-cmrqhlf
+current_folder cmrqhlf
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lsqztz-cmrqhlf
+current_folder cmrqhlf
+naredba ['290574', 'wzbg.fdp']
+current_path -/-hblzj-rsgbjpp-lsqztz-cmrqhlf
+current_folder cmrqhlf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lsqztz
+current_folder lsqztz
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['$', 'cd', 'lwlh']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['dir', 'flc']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['dir', 'pjm']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['dir', 'vhs']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['140257', 'wqcsrw']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['dir', 'zqwvr']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['$', 'cd', 'flc']
+current_path -/-hblzj-rsgbjpp-lwlh-flc
+current_folder flc
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-flc
+current_folder flc
+naredba ['75721', 'fbhzn']
+current_path -/-hblzj-rsgbjpp-lwlh-flc
+current_folder flc
+naredba ['84992', 'jrfpjdpw.znd']
+current_path -/-hblzj-rsgbjpp-lwlh-flc
+current_folder flc
+naredba ['2018', 'rvqgwwz.rbq']
+current_path -/-hblzj-rsgbjpp-lwlh-flc
+current_folder flc
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['$', 'cd', 'pjm']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['dir', 'bzctws']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['213358', 'jllhmmf.vlr']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['243414', 'jrfpjdpw.znd']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['dir', 'ljv']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['dir', 'vjjhgjmp']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['$', 'cd', 'bzctws']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-bzctws
+current_folder bzctws
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-bzctws
+current_folder bzctws
+naredba ['89520', 'ljv.nbf']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-bzctws
+current_folder bzctws
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['$', 'cd', 'ljv']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-ljv
+current_folder ljv
+naredba ['210757', 'fnnbm']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['$', 'cd', 'vjjhgjmp']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['dir', 'ljv']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['dir', 'qvpcmscg']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['dir', 'rsbdmvjq']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['219321', 'wjcwpt.psz']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['dir', 'wqcsrw']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['$', 'cd', 'ljv']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-ljv
+current_folder ljv
+naredba ['137884', 'jrfpjdpw.znd']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['$', 'cd', 'qvpcmscg']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-qvpcmscg
+current_folder qvpcmscg
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-qvpcmscg
+current_folder qvpcmscg
+naredba ['36087', 'gwflqqnm.qjb']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-qvpcmscg
+current_folder qvpcmscg
+naredba ['82032', 'pmqfdv']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-qvpcmscg
+current_folder qvpcmscg
+naredba ['242377', 'qpth']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-qvpcmscg
+current_folder qvpcmscg
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['$', 'cd', 'rsbdmvjq']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-rsbdmvjq
+current_folder rsbdmvjq
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-rsbdmvjq
+current_folder rsbdmvjq
+naredba ['223158', 'wmtvbq']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-rsbdmvjq
+current_folder rsbdmvjq
+naredba ['72999', 'zchc.wfg']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-rsbdmvjq
+current_folder rsbdmvjq
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw
+current_folder wqcsrw
+naredba ['dir', 'ljv']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', 'ljv']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw-ljv
+current_folder ljv
+naredba ['dir', 'mrw']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw-ljv
+current_folder ljv
+naredba ['$', 'cd', 'mrw']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw-ljv-mrw
+current_folder mrw
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw-ljv-mrw
+current_folder mrw
+naredba ['271684', 'tmnldb.rgb']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw-ljv-mrw
+current_folder mrw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm-vjjhgjmp
+current_folder vjjhgjmp
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-pjm
+current_folder pjm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['$', 'cd', 'vhs']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs
+current_folder vhs
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs
+current_folder vhs
+naredba ['dir', 'hsjs']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs
+current_folder vhs
+naredba ['dir', 'jhvqqcls']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs
+current_folder vhs
+naredba ['172468', 'rvqgwwz.rbq']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs
+current_folder vhs
+naredba ['$', 'cd', 'hsjs']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-hsjs
+current_folder hsjs
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-hsjs
+current_folder hsjs
+naredba ['227982', 'jrfpjdpw.znd']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-hsjs
+current_folder hsjs
+naredba ['323849', 'wmtvbq']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-hsjs
+current_folder hsjs
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs
+current_folder vhs
+naredba ['$', 'cd', 'jhvqqcls']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-jhvqqcls
+current_folder jhvqqcls
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-jhvqqcls
+current_folder jhvqqcls
+naredba ['dir', 'wqcsrw']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-jhvqqcls
+current_folder jhvqqcls
+naredba ['$', 'cd', 'wqcsrw']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-jhvqqcls-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-jhvqqcls-wqcsrw
+current_folder wqcsrw
+naredba ['145011', 'twdzdhrb.nsw']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-jhvqqcls-wqcsrw
+current_folder wqcsrw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs-jhvqqcls
+current_folder jhvqqcls
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh-vhs
+current_folder vhs
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['$', 'cd', 'zqwvr']
+current_path -/-hblzj-rsgbjpp-lwlh-zqwvr
+current_folder zqwvr
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-lwlh-zqwvr
+current_folder zqwvr
+naredba ['333371', 'rvqgwwz.rbq']
+current_path -/-hblzj-rsgbjpp-lwlh-zqwvr
+current_folder zqwvr
+naredba ['144186', 'vmwddb.htb']
+current_path -/-hblzj-rsgbjpp-lwlh-zqwvr
+current_folder zqwvr
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp-lwlh
+current_folder lwlh
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['$', 'cd', 'slb']
+current_path -/-hblzj-rsgbjpp-slb
+current_folder slb
+naredba ['$', 'ls']
+current_path -/-hblzj-rsgbjpp-slb
+current_folder slb
+naredba ['101405', 'jrfpjdpw.znd']
+current_path -/-hblzj-rsgbjpp-slb
+current_folder slb
+naredba ['80571', 'lqtw.vtp']
+current_path -/-hblzj-rsgbjpp-slb
+current_folder slb
+naredba ['212763', 'rfqt.cvz']
+current_path -/-hblzj-rsgbjpp-slb
+current_folder slb
+naredba ['242678', 'ssrbmlwn.rgn']
+current_path -/-hblzj-rsgbjpp-slb
+current_folder slb
+naredba ['204742', 'tftbz']
+current_path -/-hblzj-rsgbjpp-slb
+current_folder slb
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-rsgbjpp
+current_folder rsgbjpp
+naredba ['$', 'cd', '..']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['$', 'cd', 'tpjpnjg']
+current_path -/-hblzj-tpjpnjg
+current_folder tpjpnjg
+naredba ['$', 'ls']
+current_path -/-hblzj-tpjpnjg
+current_folder tpjpnjg
+naredba ['37762', 'wqcsrw.vhz']
+current_path -/-hblzj-tpjpnjg
+current_folder tpjpnjg
+naredba ['$', 'cd', '..']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['$', 'cd', 'vmwddb']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['dir', 'ctgzpnn']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['237933', 'hhv']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['dir', 'lwvcw']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['dir', 'wpw']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', 'ctgzpnn']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['dir', 'jbfqtvhl']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['100662', 'jhp']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['117832', 'lqtw.vtp']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['225417', 'mvgmfhh.thn']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['21553', 'rvqgwwz.rbq']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['240333', 'sbmzdqrc']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['dir', 'shnnqff']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['$', 'cd', 'jbfqtvhl']
+current_path -/-hblzj-vmwddb-ctgzpnn-jbfqtvhl
+current_folder jbfqtvhl
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn-jbfqtvhl
+current_folder jbfqtvhl
+naredba ['37115', 'ljv.rws']
+current_path -/-hblzj-vmwddb-ctgzpnn-jbfqtvhl
+current_folder jbfqtvhl
+naredba ['73007', 'wqcsrw']
+current_path -/-hblzj-vmwddb-ctgzpnn-jbfqtvhl
+current_folder jbfqtvhl
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['$', 'cd', 'shnnqff']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff
+current_folder shnnqff
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff
+current_folder shnnqff
+naredba ['294441', 'frghtdtd.qwf']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff
+current_folder shnnqff
+naredba ['dir', 'srbf']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff
+current_folder shnnqff
+naredba ['dir', 'vmwddb']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff
+current_folder shnnqff
+naredba ['$', 'cd', 'srbf']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-srbf
+current_folder srbf
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-srbf
+current_folder srbf
+naredba ['dir', 'fqhhcdcm']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-srbf
+current_folder srbf
+naredba ['$', 'cd', 'fqhhcdcm']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-srbf-fqhhcdcm
+current_folder fqhhcdcm
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-srbf-fqhhcdcm
+current_folder fqhhcdcm
+naredba ['142423', 'vmwddb.snc']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-srbf-fqhhcdcm
+current_folder fqhhcdcm
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-srbf
+current_folder srbf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff
+current_folder shnnqff
+naredba ['$', 'cd', 'vmwddb']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['dir', 'jllhmmf']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['dir', 'ljv']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['61218', 'nsmtdl']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['58661', 'wqcsrw']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', 'jllhmmf']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-jllhmmf
+current_folder jllhmmf
+naredba ['6984', 'qdjnldqn']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-jllhmmf
+current_folder jllhmmf
+naredba ['231401', 'sfcwg']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-jllhmmf
+current_folder jllhmmf
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', 'ljv']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-ljv
+current_folder ljv
+naredba ['110331', 'jfjsgfn.lvq']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-ljv
+current_folder ljv
+naredba ['269960', 'mvgmfhh.thn']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb-ctgzpnn-shnnqff
+current_folder shnnqff
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb-ctgzpnn
+current_folder ctgzpnn
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', 'lwvcw']
+current_path -/-hblzj-vmwddb-lwvcw
+current_folder lwvcw
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-lwvcw
+current_folder lwvcw
+naredba ['115763', 'mvgmfhh.thn']
+current_path -/-hblzj-vmwddb-lwvcw
+current_folder lwvcw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', 'wpw']
+current_path -/-hblzj-vmwddb-wpw
+current_folder wpw
+naredba ['$', 'ls']
+current_path -/-hblzj-vmwddb-wpw
+current_folder wpw
+naredba ['187278', 'lqtw.vtp']
+current_path -/-hblzj-vmwddb-wpw
+current_folder wpw
+naredba ['$', 'cd', '..']
+current_path -/-hblzj-vmwddb
+current_folder vmwddb
+naredba ['$', 'cd', '..']
+current_path -/-hblzj
+current_folder hblzj
+naredba ['$', 'cd', '..']
+current_path -/
+current_folder /
+naredba ['$', 'cd', 'jbssdwf']
+current_path -/-jbssdwf
+current_folder jbssdwf
+naredba ['$', 'ls']
+current_path -/-jbssdwf
+current_folder jbssdwf
+naredba ['31839', 'ljcttp']
+current_path -/-jbssdwf
+current_folder jbssdwf
+naredba ['$', 'cd', '..']
+current_path -/
+current_folder /
+naredba ['$', 'cd', 'ljv']
+current_path -/-ljv
+current_folder ljv
+naredba ['$', 'ls']
+current_path -/-ljv
+current_folder ljv
+naredba ['270886', 'jrfpjdpw.znd']
+current_path -/-ljv
+current_folder ljv
+naredba ['$', 'cd', '..']
+current_path -/
+current_folder /
+naredba ['$', 'cd', 'nhp']
+current_path -/-nhp
+current_folder nhp
+naredba ['$', 'ls']
+current_path -/-nhp
+current_folder nhp
+naredba ['dir', 'sgffh']
+current_path -/-nhp
+current_folder nhp
+naredba ['$', 'cd', 'sgffh']
+current_path -/-nhp-sgffh
+current_folder sgffh
+naredba ['$', 'ls']
+current_path -/-nhp-sgffh
+current_folder sgffh
+naredba ['76321', 'psbpb.sqj']
+
+ ~/aoc/da
