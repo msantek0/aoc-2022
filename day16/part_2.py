@@ -1,4 +1,4 @@
-filename = "input.txt"
+filename = "example.txt"
 
 class Tunnel:
     def __init__(self, name, presure, prev, steps, open, opened_on_path) :
@@ -14,21 +14,24 @@ class Tunnel:
 leads_to = dict()
 flow_rate = dict()
 queue = []
+elephant_queue = []
 visited = []
+visited_ele = []
 maxed_pressure = 0
 
-def visit(tunnel, parent):  
-    global queue, flow_rate, maxed_pressure
+def visit(queue, visited, tunnel, parent, ele_parent):  
+    global flow_rate, maxed_pressure
     if parent.prev and parent.prev.name == tunnel: return
-    if parent.steps > 10 and parent.pressure < maxed_pressure: return
-    if parent.steps < 30:
-        queue.append(Tunnel(tunnel, parent.pressure, parent, parent.steps + 1, False, parent.opened_on_path[:]))
+    if parent.steps > 10 and parent.pressure + ele_parent.pressure < maxed_pressure: return
+    if parent.steps < 26:
+        queue.append(Tunnel(tunnel, parent.pressure + ele_parent.pressure, parent, parent.steps + 1, False, parent.opened_on_path.union(ele_parent.opened_on_path)))
     if flow_rate[tunnel] > 0:
-        if parent.steps < 29:
+        if parent.steps < 25:
             if tunnel in parent.opened_on_path: return
-            arr = parent.opened_on_path[:]
-            arr.append(tunnel)
-            tmp_pressure = parent.pressure + flow_rate[tunnel]*(28-parent.steps)
+            if tunnel in ele_parent.opened_on_path: return
+            arr = parent.opened_on_path.union(ele_parent.opened_on_path)
+            arr.add(tunnel)
+            tmp_pressure = parent.pressure + ele_parent.pressure + flow_rate[tunnel]*(24-parent.steps)
             if tmp_pressure > maxed_pressure:
                 maxed_pressure = tmp_pressure
             queue.append(Tunnel(tunnel, tmp_pressure, parent, parent.steps + 2, True, arr))
@@ -52,14 +55,23 @@ print(leads_to)
 print(flow_rate)
 
 
-queue.append(Tunnel('AA', flow_rate['AA'], None, 0, False, []))
+queue.append(Tunnel('AA', flow_rate['AA'], None, 0, False, set()))
 p = queue.pop(0)
+elephant_queue.append(Tunnel('AA', flow_rate['AA'], None, 0, False, set()))
+elephant = elephant_queue.pop(0)
 cnt = 0
-while p != None:
+while p != None and elephant != None:
+    while p.steps != elephant.steps:
+        if len(queue) > 0:
+            p = queue.pop(0)
+        elif len(elephant_queue) > 0:
+            elephant = elephant_queue.pop()
     cnt += 1
     print(p.steps)
     for tunnel in leads_to[p.name]:
-        visit(tunnel, p)
+        visit(queue, visited, tunnel, p, elephant)
+    for tunnel in leads_to[elephant.name]:
+        visit(elephant_queue, visited_ele, tunnel, elephant, p)
     print("IDE:", len(queue))
     print("----------")
     #for q in queue:
@@ -68,8 +80,11 @@ while p != None:
     #    print("Steps:", q.steps)
 
     p = None
+    elephant = None
     if len(queue) > 0:
         p = queue.pop(0)
+    if len(elephant_queue) > 0:
+        elephant = elephant_queue.pop(0)
 
 max_pressure = 0
 najveci = None
@@ -77,11 +92,25 @@ for i in visited:
     if i.pressure > max_pressure:
         max_pressure = i.pressure
         najveci = i
-print(max_pressure)
+najveci_ele = None
+max_ele = 0
+for i in visited_ele:
+    if i.pressure > max_ele:
+        max_ele = i.pressure
+        najveci_ele = i
+
+
+print("my", max_pressure)
 print("Printam array ovaj prvo", najveci.opened_on_path)
 print("Krecemo:")
+
+print("ele", max_ele)
+print("Printam ele array ovaj prvo", najveci_ele.opened_on_path)
+print("Krecemo:")
+
+
 while najveci != None:
-    print(najveci.open, ":", najveci.name, end="<-")
+    print("Pressure:", najveci.pressure, najveci.open, ":", najveci.name, end="<-")
     najveci = najveci.prev
 
 
