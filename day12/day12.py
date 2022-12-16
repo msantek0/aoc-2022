@@ -34,10 +34,10 @@ def BFS():
         visit(p.x+1, p.y, p)      
         visit(p.x, p.y+1, p)
         #print("Ali status queae", len(queue))
+        p = None
         if len(queue) > 0:
             p = queue.pop(0)
-        else:
-            p = None
+
     
     if dest == None :
         print("there is no path.")
