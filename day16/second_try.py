@@ -1,4 +1,4 @@
-filename = "example.txt"
+filename = "input.txt"
 
 class Tunnel:
     def __init__(self, name, presure, prev, steps, open, opened_on_path) :
@@ -21,8 +21,8 @@ def visit(tunnel, second_tunnel,  parent, second_parent):
     global queue, flow_rate, maxed_pressure
     if parent.prev and parent.prev.name == tunnel: return
     if parent.prev and parent.prev.name == second_tunnel: return
-    if parent.steps > 6 and parent.pressure < maxed_pressure: return
-    if second_parent.steps > 6 and second_parent.pressure < maxed_pressure: return
+    if parent.steps > 8 and parent.pressure < maxed_pressure: return
+    if second_parent.steps > 8 and second_parent.pressure < maxed_pressure: return
     if parent.steps < 26 and second_parent.steps < 26:
         new_union = parent.opened_on_path.union(second_parent.opened_on_path)
         queue.append([Tunnel(tunnel, parent.pressure, parent, parent.steps + 1, False, new_union), 
