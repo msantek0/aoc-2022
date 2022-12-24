@@ -1,4 +1,4 @@
-# TWO SLOW!
+# TOO SLOW!
 
 import copy
 filename = "input.txt"
